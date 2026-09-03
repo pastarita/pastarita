@@ -19,7 +19,7 @@ venture whose seaweed-derived constituents became Mantafarm.
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/projects-dark.jpg">
-  <img src="./assets/projects-light.jpg" alt="Selected work: Lanternade, SRCplex, Harbor Forms, Solar Ash (private-client CTO, maintained), Keelstat, OTTL-Vis, Holdfast, CIRE (on request)" width="880">
+  <img src="./assets/projects-light.jpg" alt="Selected work: Lanternade, SRCplex, Harbor Forms, Solar Ash (private-client CTO, maintained), Keelstat, OTTL-Vis, Holdfast, CIRE (Collaborative Integrated Research Environment)" width="880">
 </picture>
 
 **Things you can open**
